@@ -25,7 +25,7 @@ Python and packages in `requirements.txt` file installed.
 
 Alternatively, you can use the [container image](https://github.com/kbdharun/TSSDA-Lab/pkgs/container/tssda-lab-image) I created with all the packages preinstalled.
 
-You can install it in [Distrobox](https://github.com/89luca89/distrobox) with the command `distrobox create -i ghcr.io/kbdharun/tssda-lab-image:latest -n ml` and use it with the command `distrobox enter ml`.
+You can install it in [Distrobox](https://github.com/89luca89/distrobox) with the command `distrobox create -i ghcr.io/kbdharun/tssda-lab-image:latest -n tssda` and use it with the command `distrobox enter tssda`.
 
 Additionally, you can verify the authenticity of the container image using [`cosign`](https://github.com/sigstore/cosign) (download the `cosign.pub` file from [here](https://github.com/kbdharun/TSSDA-Lab/blob/main/cosign.pub) and execute the following command):
 
