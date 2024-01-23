@@ -10,6 +10,8 @@ This repository contains the programs that I worked out in Time Series and Seque
 - Lab 1: Introduction
   - [Prelab: Exploring Pandas and Matplotlib](prelab/prelab.ipynb)
   - [Task 1: Viewing Time Series Data](lab1/TSA-Ex1-task1.ipynb)
+- Lab 2: Basic Feature Engineering with Time Series Data
+  - [Feature Engineering Program](lab2/TSSDA-Ex2.ipynb)
 
 ## Prerequisites
 
