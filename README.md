@@ -12,6 +12,10 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Task 1: Viewing Time Series Data](lab1/TSA-Ex1-task1.ipynb)
 - Lab 2: Basic Feature Engineering with Time Series Data
   - [Feature Engineering Program](lab2/TSSDA-Ex2.ipynb)
+- Lab 3: ITSM Tool Exploration
+- Lab 4: Data Visualization and Sampling
+  - [Data Visualization Program](lab4/Ex3-Visualization.ipynb)
+  - [Data Sampling Program](lab4/Ex4-Sampling.ipynb)
 
 ## Prerequisites
 
