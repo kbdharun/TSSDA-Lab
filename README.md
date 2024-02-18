@@ -17,8 +17,8 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Data Visualization Program](lab4/Ex3-Visualization.ipynb)
   - [Data Sampling Program](lab4/Ex4-Sampling.ipynb)
 - Lab 5: Check the stationarity, trend and seasonality
-  - [Program 1](lab5/TS-Exp5-1.ipynb)
-  - [Program 2](lab5/TS-Exp5-2.ipynb)
+  - [Program 5](lab5/TS-Exp5.ipynb)
+  - [Program 5A](lab5/TS-Exp5A.ipynb)
 
 ## Prerequisites
 

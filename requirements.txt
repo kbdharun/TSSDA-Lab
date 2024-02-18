@@ -4,5 +4,6 @@ notebook
 numpy
 pandas
 plotly
-seaborn
 scikit-learn
+seaborn
+statsmodels
