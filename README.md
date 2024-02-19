@@ -11,14 +11,16 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Prelab: Exploring Pandas and Matplotlib](prelab/prelab.ipynb)
   - [Task 1: Viewing Time Series Data](lab1/TSA-Ex1-task1.ipynb)
 - Lab 2: Basic Feature Engineering with Time Series Data
-  - [Feature Engineering Program](lab2/TSSDA-Ex2.ipynb)
+  - [Task 2: Feature Engineering Program](lab2/TSSDA-Ex2.ipynb)
 - Lab 3: ITSM Tool Exploration
 - Lab 4: Data Visualization and Sampling
-  - [Data Visualization Program](lab4/Ex3-Visualization.ipynb)
-  - [Data Sampling Program](lab4/Ex4-Sampling.ipynb)
-- Lab 5: Check the stationarity, trend and seasonality
+  - [Task 3: Data Visualization Program](lab4/Ex3-Visualization.ipynb)
+  - [Task 4: Data Sampling Program](lab4/Ex4-Sampling.ipynb)
+- Lab 5: Check the Stationality, Trend and Seasonality (Task 5)
   - [Program 5](lab5/TS-Exp5.ipynb)
   - [Program 5A](lab5/TS-Exp5A.ipynb)
+- Lab 6: Check the Stationality, Trend and Seasonality (Task 5)
+  - [Program 5B](lab6/TS-Exp5B.ipynb)
 
 ## Prerequisites
 
