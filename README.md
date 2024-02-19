@@ -16,11 +16,12 @@ This repository contains the programs that I worked out in Time Series and Seque
 - Lab 4: Data Visualization and Sampling
   - [Task 3: Data Visualization Program](lab4/Ex3-Visualization.ipynb)
   - [Task 4: Data Sampling Program](lab4/Ex4-Sampling.ipynb)
-- Lab 5: Check the Stationality, Trend and Seasonality (Task 5)
-  - [Program 5](lab5/TS-Exp5.ipynb)
-  - [Program 5A](lab5/TS-Exp5A.ipynb)
-- Lab 6: Check the Stationality, Trend and Seasonality (Task 5)
-  - [Program 5B](lab6/TS-Exp5B.ipynb)
+- Lab 5: Check the Stationality, Trend and Seasonality
+  - [Task 5A](lab5/TS-Exp5A.ipynb)
+  - [Task 5B](lab5/TS-Exp5B.ipynb)
+- Lab 6: Check the Stationality, Trend and Seasonality
+  - [Task 5C](lab6/TS-Exp5C.ipynb)
+  - [Task 6A: Check for the ACF and PACF of the data](lab6/TS-Exp6A.ipynb)
 
 ## Prerequisites
 
