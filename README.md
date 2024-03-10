@@ -22,8 +22,14 @@ This repository contains the programs that I worked out in Time Series and Seque
 - Lab 6: Check the Stationality, Trend and Seasonality
   - [Task 5C](lab6/TS-Exp5C.ipynb)
   - [Task 6A: Check for the ACF and PACF of the data](lab6/TS-Exp6A.ipynb)
+
+----
+
 - Lab 7: ACF, PACF, AR, MA, ARMA calculations
   - [Task 6A: Check for the ACF and PACF of the data](lab7/TS-Exp6A.ipynb)
+  - [Task 7: Implement the differencing method and polynomial model to create a seasonally adjusted time series](lab7/TS-Exp7.ipynb)
+  - [Task 7: Implement the differencing method and polynomial model to create a seasonally adjusted time series](lab7/TS-Exp7-full.ipynb) (using Sunspots dataset)
+  - [Task 7A: Implement the differencing method and polynomial model to create a seasonally adjusted time series](lab7/TS-Exp7A.ipynb)
 
 ## Prerequisites
 
