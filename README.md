@@ -34,6 +34,11 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Task 7](lab7/TS-Exp7-full.ipynb) (using Sunspots dataset)
   - [Task 7A](lab7/TS-Exp7A.ipynb)
 
+- Lab 8: ARMA; OLS, GLS, Rolling Regression; Evaluating Performance Metrics
+  - [Task 8: ARMA](lab8/TS-Exp8-ARMA.ipynb)
+  - [Task 8A: OLS, GLS, Rolling Regression](lab8/TS-Exp8-OLS,GLS,Rolling_Reg.ipynb)
+  - [Task 8B: Evaluating Performance Metrics](lab8/TS-Exp8-Metrics.ipynb) (only for reference)
+
 ## Prerequisites
 
 Python and packages in `requirements.txt` file installed.
