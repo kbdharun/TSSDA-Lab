@@ -31,8 +31,8 @@ This repository contains the programs that I worked out in Time Series and Seque
 
 - Lab 7 (continued): Implement the differencing method and polynomial model to create a seasonally adjusted time series
   - [Task 7](lab7/TS-Exp7.ipynb)
-  - [Task 7](lab7/TS-Exp7-full.ipynb) (using Sunspots dataset)
   - [Task 7A](lab7/TS-Exp7A.ipynb)
+  - [Task 7A](lab8/TS-Exp7A-Sunspots.ipynb) (using Sunspots dataset)
 
 - Lab 8: ARMA; OLS, GLS, Rolling Regression; Evaluating Performance Metrics
   - [Task 8: ARMA](lab8/TS-Exp8-ARMA.ipynb)
