@@ -41,10 +41,16 @@ This repository contains the programs that I worked out in Time Series and Seque
 
 ## Prerequisites
 
-Python and packages in `requirements.txt` file installed.
+Python and packages in the `requirements.txt` file installed.
 
 > [!NOTE]
-> You can install all the packages in the file using the command `pip install -r requirements.txt`.
+> You can install all the required packages using the command `pip install -r requirements.txt`.
+
+### Working with Conda
+
+If you are using `conda` to manage your environments, you can create a new environment for this repository with the command `conda create -n tssda` and activate it with the command `conda activate tssda`.
+
+Then, you can install all the required packages using the command `conda install --file requirements.txt`.
 
 ### Container Image
 
