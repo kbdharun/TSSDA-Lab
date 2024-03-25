@@ -1,3 +1,4 @@
+ipywidgets
 matplotlib
 nbconvert
 notebook
@@ -8,3 +9,4 @@ scikit-learn
 scipy
 seaborn
 statsmodels
+tqdm

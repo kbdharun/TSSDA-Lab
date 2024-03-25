@@ -39,6 +39,10 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Task 8A: OLS, GLS, Rolling Regression](lab8/TS-Exp8-OLS,GLS,Rolling_Reg.ipynb)
   - [Task 8B: Evaluating Performance Metrics](lab8/TS-Exp8-Metrics.ipynb) (only for reference)
 
+- Lab 9: ARIMA; Seasonal ARIMA
+  - [Task 9: ARIMA](lab9/TS-Exp9,10-ARIMA.ipynb)
+  - [Task 10: Seasonal ARIMA](lab9/TS-Exp9,10-ARIMA.ipynb)
+
 ## Prerequisites
 
 Python and packages in the `requirements.txt` file installed.
