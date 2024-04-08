@@ -50,7 +50,7 @@ This repository contains the programs that I worked out in Time Series and Seque
 
 - Lab 11: Implement the state space modelling and visualize the same.
   - [Task 12A: Implement Data GARCH model (without OLS)](lab11/TS-Exp12-GARCH.ipynb)
-  - [Task 12B: Kalman Filter](lab11/TS-Exp12-Kalman-Filter.ipynb)
+  - [Task 12B: Kalman Filter on Air Quality Dataset](lab11/TS-Exp12-Kalman-Filter.ipynb)
   - [Task 12B: Kalman Filter on Yahoo Finance Dataset](lab11/TS-Exp12-Kalman-Filter-YF.ipynb) (miscellaneous)
   - [Task 12C: Explore and visualize data connected with extreme weather events](lab11/TS-Exp12-Visualization.ipynb) (not required for record)
 
@@ -64,6 +64,9 @@ Python and packages in the `requirements.txt` file installed.
 ### Working with Conda
 
 If you are using `conda` to manage your environments, you can create a new environment for this repository with the command `conda create -n tssda` and activate it with the command `conda activate tssda`.
+
+> [!TIP]
+> For faster environment solving in Conda, I would suggesting using the `libmamba` solver. You can set it as the default solver using the command `conda config --set solver libmamba`.
 
 Then, you can install all the required packages using the command `conda install --file requirements.txt`.
 
