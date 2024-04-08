@@ -48,6 +48,12 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Task 12A: Implement Data GARCH model (without OLS)](lab10/TS-Exp12A.ipynb)
   - [Task 12A: Implement Data GARCH model (with OLS)](lab10/TS-Exp12A-2.ipynb)
 
+- Lab 11: Implement the state space modelling and visualize the same.
+  - [Task 12A: Implement Data GARCH model (without OLS)](lab11/TS-Exp12-GARCH.ipynb)
+  - [Task 12B: Kalman Filter](lab11/TS-Exp12-Kalman-Filter.ipynb)
+  - [Task 12B: Kalman Filter on Yahoo Finance Dataset](lab11/TS-Exp12-Kalman-Filter-YF.ipynb) (miscellaneous)
+  - [Task 12C: Explore and visualize data connected with extreme weather events](lab11/TS-Exp12-Visualization.ipynb) (not required for record)
+
 ## Prerequisites
 
 Python and packages in the `requirements.txt` file installed.
