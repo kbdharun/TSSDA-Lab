@@ -1,7 +1,6 @@
 # TSSDA-Lab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kbdharun/TSSDA-Lab)
-[![CodeFactor](https://www.codefactor.io/repository/github/kbdharun/tssda-lab/badge)](https://www.codefactor.io/repository/github/kbdharun/tssda-lab)
 
 This repository contains the programs that I worked out in Time Series and Sequential Data Analysis Lab.
 
