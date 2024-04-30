@@ -53,6 +53,8 @@ This repository contains the programs that I worked out in Time Series and Seque
   - [Task 12B: Kalman Filter on Yahoo Finance Dataset](lab11/TS-Exp12-Kalman-Filter-YF.ipynb) (miscellaneous)
   - [Task 12C: Explore and visualize data connected with extreme weather events](lab11/TS-Exp12-Visualization.ipynb) (not required for record)
 
+- [Complete TSSDA Codes Program](TSSDA-Complete-Codes.ipynb)
+
 ## Prerequisites
 
 Python and packages in the `requirements.txt` file installed.
